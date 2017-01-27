@@ -1,0 +1,16 @@
+input {
+    margin-bottom:5px;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 55px;
+}
+
+.no-left-padding {
+    padding-left: 0px;
+}
+
+.no-left-margin {
+    margin-left: 0px;
+}
