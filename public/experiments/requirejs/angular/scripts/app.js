@@ -1,4 +1,7 @@
-(function(){
+define([
+    'angular',
+    'angular-route'
+], function (angular) {
     angular
-        .module("RequireApp", []);
-})();
+        .module('RequireSampleApp', ['ngRoute'])
+});

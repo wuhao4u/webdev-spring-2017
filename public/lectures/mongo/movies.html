@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MovieApp">
+<head>
+    <link href="../../css/bootstrap.css" rel="stylesheet"/>
+    <meta charset="UTF-8">
+    <script src="../../js/angular.js"></script>
+    <script src="movies.js"></script>
+    <title>Movies</title>
+</head>
+<body>
+<div class="container-fluid" ng-controller="MovieController as model">
+    <div class="row">
+        <div class="col-xs-4">
+            <h1>Movies Database</h1>
+            <label>Title</label>
+            <input ng-model="model.movie.title" class="form-control"/>
+            <a ng-click="model.createMovie(model.movie)" class="btn btn-block btn-primary">Create</a>
+            <a ng-click="model.updateMovie(model.movie)" class="btn btn-block btn-success">Update</a>
+
+            <ul class="list-group">
+                <li ng-repeat="movie in model.movies" class="list-group-item">
+                    <img ng-src="{{movie.poster}}" style="width: 20px;"/>
+                    <a ng-click="model.searcMovieDetails(movie.imdbID)">{{movie.title}}</a>
+                    <a ng-click="model.deleteMovie(movie._id)" class="pull-right">
+                        <span class="glyphicon glyphicon-remove"></span>
+                    </a>
+                    <a ng-click="model.selectMovie(movie._id)" class="pull-right">
+                        <span class="glyphicon glyphicon-cog"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-xs-4">
+            <h1>Search Movies</h1>
+            <label>Movie Title</label>
+            <input placeholder="Terminator" ng-model="model.movie.searchTitle" class="form-control"/>
+            <button ng-click="model.searchMovie(model.movie)" class="btn btn-block btn-info">
+                Search
+            </button>
+            <div>
+                <h2>Search Results</h2>
+
+                <ul class="list-group">
+                    <li class="list-group-item"
+                        ng-repeat="movie in model.movieSearchResults">
+                        <img ng-src="{{movie.Poster}}" style="width:20px;"/>
+                        <a ng-click="model.searcMovieDetails(movie.imdbID)">{{movie.Title}}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-xs-4" ng-show="model.movieDetails">
+            <h1>Search Details</h1>
+            <h2>
+                {{model.movieDetails.Title}}
+                <span ng-click="model.likeMovie(model.movieDetails)" class="glyphicon glyphicon-star-empty"></span>
+            </h2>
+            <img ng-src="{{model.movieDetails.Poster}}"/>
+            <p>{{model.movieDetails.Plot}}</p>
+            <h3>Actors</h3>
+            <p>{{model.movieDetails.Actors}}</p>
+            <ul>
+                <li ng-repeat="actor in model.movieDetails.Actors.split(',')">{{actor}}</li>
+            </ul>
+
+            {{model.movieDetails}}
+        </div>
+    </div>
+
+
+</div>
+</body>
+</html>
