@@ -519,55 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "public/assignment/config.js",
-			"settings":
-			{
-				"buffer_size": 1747,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/assignment/index.html",
-			"settings":
-			{
-				"buffer_size": 988,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/wuhao/Desktop/temp.py",
-			"settings":
-			{
-				"buffer_size": 37,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/assignment/views/website/controllers/website-edit.controller.client.js",
-			"settings":
-			{
-				"buffer_size": 721,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/assignment/views/website/controllers/website-list.controller.client.js",
-			"settings":
-			{
-				"buffer_size": 337,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/assignment/views/website/controllers/website-new.controller.client.js",
-			"settings":
-			{
-				"buffer_size": 697,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -767,28 +718,31 @@
 	"expanded_folders":
 	[
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/services",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/templates",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/widget",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/widget/controllers",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/widget/templates",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/css",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/data",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/flow",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/page",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/website",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/widget"
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment"
 	],
 	"file_history":
 	[
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/helloTemplate.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/directives/wbdvDirectives.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev/code_samples/quiz3.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/hello.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/hello.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev/code_samples/quiz3.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/labs/lab5_net_intrusion_detect/snort.conf",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/labs/lab5_net_intrusion_detect/community-rules/snort.conf",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/jquery-wed/hello.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/jquery-wed/hello.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/user.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/controllers/register.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/controllers/login.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services/user.service.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/config.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/index.html",
+		"/Users/wuhao/Desktop/temp.py",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers/website-edit.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers/website-list.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers/website-new.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services/website.service.client.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/widget/controllers/widget-list.controller.client.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/widget/templates/widget-list.view.client.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/config.js",
@@ -797,10 +751,7 @@
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/index.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/profile.view.client.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/login.view.client.html",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers/website-edit.controller.client.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/services/website.service.client.js",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/views/website/controllers/website-new.controller.client.js",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services/user.service.client.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/profile_temp.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/css/styles.css",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/profile.html",
@@ -898,25 +849,7 @@
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pureUrlNoFiles.txt",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/hosts.txt",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pagecountsReader.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/sortedOneDayNoDup.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project2/fbSearcher.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/popular_raw_parser",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/sortedOneDay.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/dnsserver",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/deployTest.sh",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/popularWikiPages.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/pgCounts/pagecountsReader.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/lruCache.py",
-		"/Volumes/WINDOWS/temp/pcSorter.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/pdp-jatintaneja90-wuhao/set10/q1.rkt",
-		"/Users/wuhao/Documents/GitHub/lynda/javaEssentialTrainingforStudents/Demo.java",
-		"/Users/wuhao/Documents/GitHub/lynda/javaEssentialTrainingforStudents/DemoWithArguments.java",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/httpserver.sh",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project1/pythonSolution/makefile",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/simpleServer.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/simpleDNSServer.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/dnsserver.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/dnsformat.txt"
+		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/sortedOneDayNoDup.txt"
 	],
 	"find":
 	{
@@ -934,6 +867,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"module",
+			"scope",
+			"drag",
+			"start",
 			"switch",
 			"in ",
 			"id",
@@ -1057,11 +994,7 @@
 			"组",
 			"DOING",
 			"find_send_pkt_time_with_id",
-			"tr",
-			"tcp_recv_pkt",
-			"tcp_running_time",
-			"double",
-			"tcp_throughput"
+			"tr"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1079,185 +1012,8 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "public/assignment/config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1747,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "public/assignment/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 988,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/wuhao/Desktop/temp.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 37,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								37
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "public/assignment/views/website/controllers/website-edit.controller.client.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 721,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "public/assignment/views/website/controllers/website-list.controller.client.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 337,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "public/assignment/views/website/controllers/website-new.controller.client.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 697,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1533,7 +1289,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 329.0,
 	"status_bar_visible": true,
 	"template_settings":
