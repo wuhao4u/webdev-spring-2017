@@ -18,6 +18,16 @@ module.exports = function (app) {
 
     var MovieModel = mongoose.model('MovieModel', MovieSchema);
 
+    // TODO: delete me
+    // var promise = MovieModel.find();
+    // promise.then(
+    //     function (movies) {
+    //         console.log(movies);
+    //     },
+    //     function (error) {
+    //         console.log(error);
+    //     });
+
     function updateMovie(req, res) {
         var movieId = req.params.movieId;
         var movie = req.body;
