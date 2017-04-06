@@ -53,11 +53,13 @@ require('./experiments/mongoose/movies/app')(app);
 
 // require('./experiments/passport/local/services/user.service.server');
 
-// require('./lectures-wed/passportjs/services/user.service.server');
+require('./lectures-wed/passportjs/services/user.service.server');
 
-require('./lectures/passportjs/services/user.service.server');
+// require('./lectures/passportjs/services/user.service.server');
 
 // require('./is3500/movie/app')(app);
+
+require('./experiments/ejs/hello');
 
 var assignment = require("./assignment/app.js");
 assignment(app);
