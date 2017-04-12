@@ -33,6 +33,8 @@ var googleConfig = {
     clientSecret : process.env.GOOGLE_CLIENT_SECRET_SPRING_2017,
     callbackURL  : process.env.GOOGLE_CALLBACK_URL_SPRING_2017
 };
+console.log("google config")
+console.log(googleConfig)
 
 passport.use(new GoogleStrategy(googleConfig, googleStrategy));
 

@@ -64,6 +64,6 @@ require('./experiments/ejs/hello');
 var assignment = require("./assignment/app.js");
 assignment(app);
 
-var port = process.env.PORT || 4000;
+var port = process.env.PORT || 3000;
 
 app.listen(port);

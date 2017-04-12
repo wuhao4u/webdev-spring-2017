@@ -519,6 +519,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "lectures-wed/passportjs/models/user.model.server.js",
+			"settings":
+			{
+				"buffer_size": 1979,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lectures-wed/passportjs/services/user.service.server.js",
+			"settings":
+			{
+				"buffer_size": 5352,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +543,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": ":w",
+		"height": 127.0,
+		"last_filter": ":q",
 		"selected_items":
 		[
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
 			[
 				":w",
 				":w - Save"
@@ -542,10 +562,6 @@
 			[
 				"Package Control: ",
 				"Package Control: List Packages"
-			],
-			[
-				":q",
-				"Set Syntax: SQL"
 			],
 			[
 				":s",
@@ -696,7 +712,7 @@
 				"View: Toggle Side Bar"
 			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -718,10 +734,57 @@
 	"expanded_folders":
 	[
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment"
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/models",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/models/user",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/services",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/passportjs",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/passportjs/models",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/passportjs/services",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/controllers",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/services",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/templates",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/test"
 	],
 	"file_history":
 	[
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/user.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/website.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/widget.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/page.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/models/user/user.model.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/services/user.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/passportjs/models/user.model.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/package.json",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/services/user.service.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/passportjs/services/user.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/controllers/login.controller.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/templates/login.view.html",
+		"/Users/wuhao/.bash_profile",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/controllers/profile.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services/user.service.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/index.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures-wed/passportjs/templates/login.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/controllers/login.controller.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/models/user/user.schema.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment/app.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/services/user.service.client.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures/passportjs/services/user.service.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures/passportjs/models/user.model.server.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures/passportjs/app.js",
+		"/Users/wuhao/.space-vim/README.md",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/test/app.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/mongo/movies.html",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures/mongo/movies.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/lectures-wed/mongo/movies.js",
+		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/test/mod1.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/helloTemplate.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/directives-wed/directives/wbdvDirectives.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev/code_samples/quiz3.html",
@@ -732,10 +795,7 @@
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/labs/lab5_net_intrusion_detect/community-rules/snort.conf",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/jquery-wed/hello.html",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/lectures/jquery-wed/hello.js",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/assignment-wed/services/user.service.server.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/controllers/register.controller.client.js",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/user/controllers/login.controller.client.js",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment-wed/services/user.service.client.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/config.js",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/webdev-spring-2017/public/assignment/index.html",
 		"/Users/wuhao/Desktop/temp.py",
@@ -799,7 +859,6 @@
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/problemSets/ps1/other/drapstvNetworking.py",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/problemSets/ps1/argparse_example.py",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs6740-networkSecurity/.gitignore",
-		"/Users/wuhao/.bash_profile",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs50/workspace/pset2/initials/initials.c",
 		"/Users/wuhao/Documents/northeastern/ccsGithub/cs50/crack.c",
 		"/Users/wuhao/Documents/GitHub/other/printAllKLength.py",
@@ -822,34 +881,7 @@
 		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/BST.py",
 		"/Users/wuhao/Documents/GitHub/InterviewPractice/leetCode/binaryTreeLib.h",
 		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/BinarySearch-answer.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/HashTable-answer.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/printAscii.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/Quicksort.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/LinkedList1.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/LinkedList1-answer.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/Stack.py",
-		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/Stack-answer.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/README",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5-examples/simpleThreadedHTTPServer.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/hostselector.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/ec2-hosts.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/LatencyMeasurer.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/dnsserver.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/deployCDN",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/Makefile",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/runCDN",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/stopCDN",
-		"/Users/wuhao/.bashrc",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/httpserver.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pureUrlNoFile.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pureUrl.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/LRUCache.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/popular_raw.html",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/popular_raw_parser.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pureUrlNoFiles.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/hosts.txt",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/pagecountsReader.py",
-		"/Users/wuhao/Documents/northeastern/ccsGithub/cs5700/cs5700Projects/project5/sortedOneDayNoDup.txt"
+		"/Users/wuhao/Documents/GitHub/InterviewPractice/udacityTechInterview/HashTable-answer.py"
 	],
 	"find":
 	{
@@ -867,6 +899,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"createuser",
+			"createUser",
+			"userModel",
+			"userMode",
+			"schema",
+			"createUser",
+			"GoogleStrategy",
+			"findUserByGoogleId",
+			"googleStrategy",
+			"update",
+			"findById",
+			"createMovie",
+			"connect",
+			"find",
+			".then(",
 			"module",
 			"scope",
 			"drag",
@@ -979,22 +1026,7 @@
 			"getres",
 			"ihl",
 			"IPPacket",
-			"IPPacke",
-			"IP",
-			"         ",
-			"        ",
-			"       ",
-			"      ",
-			"     ",
-			"    ",
-			"\\\\t",
-			"redq",
-			"DropTail",
-			"N6",
-			"组",
-			"DOING",
-			"find_send_pkt_time_with_id",
-			"tr"
+			"IPPacke"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1012,14 +1044,75 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "lectures-wed/passportjs/models/user.model.server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lectures-wed/passportjs/services/user.service.server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -1289,7 +1382,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 329.0,
 	"status_bar_visible": true,
 	"template_settings":
